@@ -25,14 +25,14 @@
     "ws": "8.18.2"
   },
   "devDependencies": {
-    "@types/node": "^22.15.30",
+    "@types/node": "^24.0.0",
     "gulp": "^5.0.1",
     "gulp-mocha": "^10.0.1",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-tslint": "^8.1.4",
     "gulp-typescript": "^5.0.1",
     "gulp-util": "^3.0.8",
-    "mocha": "^11.5.0",
+    "mocha": "^11.6.0",
     "mockery": "^2.1.0",
     "sinon": "^20.0.0",
     "tslint": "^6.1.3",
